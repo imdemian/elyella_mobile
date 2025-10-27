@@ -301,7 +301,10 @@ Este proyecto es privado y no está publicado en pub.dev.
 
 ## 👥 Autores
 
-- Tu Nombre - [GitHub](https://github.com/tu-usuario)
+- Demian Chavez Rodriguez (github.com/imdemian)
+- CoWorkers:
+    - Alison Hernandez Morales
+    - Jonathan Cadena Vega
 
 ## 🙏 Agradecimientos
 
